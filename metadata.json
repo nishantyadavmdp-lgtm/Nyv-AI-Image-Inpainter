@@ -1,0 +1,5 @@
+{
+  "name": "Nyv AI Image Inpainter",
+  "description": "An AI-powered image editing application that allows users to upload an image, select a region with a brush, and use a text prompt to modify the selected area using the Gemini API.",
+  "requestFramePermissions": []
+}
